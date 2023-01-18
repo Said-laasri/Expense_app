@@ -1,0 +1,31 @@
+.date{
+    background-color: #1a1818;
+    border-radius: 12px;
+    border: 2px solid rgb(15, 15, 15);
+    text-align: center;
+    width: 5em;
+    color: rgb(241, 232, 219);
+}
+
+.date_month{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(236, 65, 13);
+}
+
+.date_day{
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgb(13, 102, 236);
+}
+
+.date_year{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(51, 207, 4);
+}
+
+.date:hover{
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+}
