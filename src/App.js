@@ -1,12 +1,13 @@
-import React from 'react';
-import ExpenseItem from './components/ExpenseItem';
+import React from "react";
+import Expenses from "./components/Expanse";
 
 function App() {
+  
   return (
-    <div >
-      <header className='app'>
-        <h1>Let's get started</h1>
-        <ExpenseItem />
+    <div className="container">
+      <header className="app">
+        <h1>My Expenses</h1>
+       <Expenses />
       </header>
     </div>
   );

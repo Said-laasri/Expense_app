@@ -16,5 +16,21 @@ code {
 .app{
   display: flex;
   flex-direction: column;
+  align-self: center;
   align-items: center;
+  max-width: 80vw;
+  margin: auto;
+  background-color: rgb(31, 29, 29);
+}
+
+h1{
+  font-size: 4rem;
+  color: #5e6cad;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  box-shadow: 2px 3px 6px 0.1rem #2f32e9;
+}
+
+.container{
+  background-color: rgb(61, 59, 59);
 }
