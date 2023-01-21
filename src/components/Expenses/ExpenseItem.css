@@ -1,10 +1,10 @@
 .expense{
     display: flex;
+    align-self: center;
     font-size: 1.5rem;
     font-weight: 400;
-    gap: 2rem;
-    justify-content: first baseline;
-    width: 70%;
+    gap: 1rem;
+    width: 100%;
     padding: 1%;
     flex-wrap: wrap;
 }
@@ -23,11 +23,6 @@
     margin: 0;
     color: rgb(245, 237, 237);
 }
-
-/* .description > h2:hover{
-    color: rgb(0, 0, 0);
-    background-color: rgb(253, 253, 253);
-} */
 
 .description > div {
     font-size: 18px;
