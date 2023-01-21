@@ -1,52 +1,50 @@
-.new-expense__controls{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 1rem;
+.new-expense__controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 1rem;
 }
 
-.new-expense__control{
-    flex: 2;
-    margin: 1%;
+.new-expense__control {
+  flex: 2;
+  margin: 1%;
 }
 
-.new-expense__control > label{
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-    color: rgb(253, 249, 249);
-    display: block;
+.new-expense__control > label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: rgb(253, 249, 249);
+  display: block;
 }
 
-.new-expense__control > input{
-    padding: 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 6px;
+.new-expense__control > input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
 }
 
-
-.new-expense__actions{
-    text-align: right;
+.new-expense__actions {
+  text-align: right;
 }
 
-.new-expense__actions > button{
-    font: inherit;
-    cursor: pointer;
-    background-color: #213edf;
-    color: white;
-    border: 1px solid #14b9a3;
-    padding: 0.5rem 2rem;
-    border-radius: 6px;
+.new-expense__actions > button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #213edf;
+  color: white;
+  border: 1px solid #14b9a3;
+  padding: 0.5rem 2rem;
+  border-radius: 6px;
 }
 
-.new-expense__actions > button:hover{
-    background-color: #303534;
-    border-color: #213edf;
+.new-expense__actions > button:hover {
+  background-color: #303534;
+  border-color: #213edf;
 }
 
-input{ 
-    background: transparent;
-    color: white;
-    border: none;
+input {
+  background: transparent;
+  color: white;
+  border: none;
 }
-  
