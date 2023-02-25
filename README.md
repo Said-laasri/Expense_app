@@ -1,44 +1,94 @@
-# Project Name
+# 📗 Table of Contents
 
-sothing_happening
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Exotic Rentals ](#-exotic-rentals--)
+  - [Backend](#backend)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-# Description the project.
+# 📖 Expense App <a name="about-project"></a>
 
-This is a basic Expanses tracker app, where you can add your expanses and see them in a list, you can also delete them.
+Expense App is a web application that allows users to track their expenses. It is built with React.js.
 
-# Built With
+## 🛠 Built With <a name="built-with"></a>
 
-Languages: JavaScript, HTML, CSS
-Frameworks: React, Redux
-Technologies used: Visual Studio Code
-Requirements
-In order to work on this project, you need to have the following dependencies installed:
+### Tech Stack <a name="tech-stack"></a>
 
-Node.js
-Yarn
-Rails
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="https://aos.com/">HTML</a></li>
+  </ul>
+</details>
 
-# Getting Started
+## 🚀 Live Demo <a name="live-demo"></a>
 
-Clone this repository
-`$ git clone git@github.com:NickEmma/sothing-appening.git`
+- [Live coming soon]()
 
-`$ cd to file`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Commands to run
+## 💻 Getting Started <a name="getting-started"></a>
 
-Run
+To get a local copy up and running, follow these steps.
 
-`$ bundle install`
+### Prerequisites
 
-To get all the gems required for the project
+In order to run this project you need:
 
-## Start
+### Setup
 
-to start the app please run
+Clone this repository to your desired folder:
 
-` $ yarn start`
+```sh
+  cd my-folder
+  git clone git@github.com
+```
 
+### Install
+
+Install this project with:
+
+```sh
+  cd to file
+  yarn install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm run dev
+```
+
+### Deployment
+
+You can deploy this project using:
+
+```sh
+  git push main
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Author <a name="author"></a>
 
 ## Authors
 
@@ -48,25 +98,37 @@ to start the app please run
 - Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
 - LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
+## 🔭 Future Features <a name="future-features"></a>
 
-## 🤝 Contributing
+- [ ] **I will add a feature for a new project.**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-# Acknowledgments
+If you like this project consider giving it a star ⭐️.
 
-Microverse
-LazyCoders
-Coding Partners
-Inspiration
-etc..
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project is MIT licensed.
+I would like to thank Microverse for giving me the opportunity to work on this project.
+
+- LazyCoders
+- Coding Partners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
