@@ -20,18 +20,21 @@ code {
   align-items: center;
   max-width: 80vw;
   margin: auto;
-  background-color: rgb(31, 29, 29);
+  background: blur(2px)
 }
 
 h1{
   font-size: 4rem;
-  color: #5e6cad;
+  color: #dadce2;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 600;
-  box-shadow: 2px 3px 6px 0.1rem #2f32e9;
+  box-shadow: 2px 3px 6px 0.1rem #ececf5;
 }
 
 .container{
-  background-color: rgb(61, 59, 59);
-  height: 100%;
+  height: 100vw;
+  background-image: url('./components/assets/download.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }

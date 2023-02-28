@@ -1,5 +1,5 @@
 .date{
-    background-color: #1a1818;
+    background-color: #b8afaf;
     border-radius: 12px;
     border: 2px solid rgb(15, 15, 15);
     text-align: center;
@@ -22,7 +22,7 @@
 .date_year{
     font-size: 1.5rem;
     font-weight: 600;
-    color: rgb(51, 207, 4);
+    color: rgb(36, 124, 10);
 }
 
 .date:hover{

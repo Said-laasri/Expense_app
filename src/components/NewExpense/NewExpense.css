@@ -2,14 +2,14 @@
   text-align: center;
   margin: 2rem 0;
   width: 70%;
-  background-color: #414a57;
+  background-color: transparent;
   padding: 1%;
 }
 
 .edit {
   font: inherit;
   cursor: pointer;
-  background-color: #213edf;
+  background-color: #aaadbb;
   color: white;
   border: 1px solid #14b9a3;
   padding: 0.5rem 2rem;
