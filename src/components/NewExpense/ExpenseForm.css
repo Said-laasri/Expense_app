@@ -22,6 +22,8 @@
   padding: 0.5rem;
   border: 1px solid #ccc;
   border-radius: 6px;
+  background: #ccc;
+  color: #0c0b0b;
 }
 
 .new-expense__actions {
@@ -41,7 +43,8 @@
 
 .new-expense__actions > button:hover {
   background-color: #303534;
-  border-color: #213edf;
+  border-color: #d9dce9;
+  color: #f0e7e7;
 }
 
 input {

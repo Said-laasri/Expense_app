@@ -10,7 +10,7 @@
   font: inherit;
   width: 100%;
   padding: 1rem;
-  background-color: transparent;
+  background-color: rgba(1, 2, 4, 0.664);
   display: flex;
   justify-content: space-between;
   align-items: center;

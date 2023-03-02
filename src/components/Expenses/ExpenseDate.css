@@ -1,7 +1,7 @@
 .date{
-    background-color: #b8afaf;
+    background-color: rgba(1, 2, 4, 0.801);
     border-radius: 12px;
-    border: 2px solid rgb(15, 15, 15);
+    border: 1px solid rgb(204, 192, 192);
     text-align: center;
     width: 5em;
     color: rgb(241, 232, 219);
@@ -10,22 +10,17 @@
 .date_month{
     font-size: 1.5rem;
     font-weight: 600;
-    color: rgb(236, 65, 13);
+    color: rgb(240, 155, 130);
 }
 
 .date_day{
     font-size: 2rem;
     font-weight: 800;
-    color: rgb(13, 102, 236);
+    color: rgb(137, 174, 230);
 }
 
 .date_year{
     font-size: 1.5rem;
     font-weight: 600;
-    color: rgb(36, 124, 10);
-}
-
-.date:hover{
-    background-color: rgb(253, 253, 253);
-    color: rgb(0, 0, 0);
+    color: rgb(174, 236, 156);
 }
