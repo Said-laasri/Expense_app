@@ -40,7 +40,7 @@ Expense App is a web application that allows users to track their expenses. It i
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live coming soon]()
+- [Live](https://expense-app-blush.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
