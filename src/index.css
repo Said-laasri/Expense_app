@@ -38,3 +38,17 @@ h1{
   background-size: cover;
   background-position: center;
 }
+
+@media screen and (max-width: 768px) {
+  .app{
+    max-width: 100vw;
+  }
+
+  h1{
+    font-size: 2rem;
+  }
+
+  .container{
+    height: 100%;
+  }
+}

@@ -1,26 +1,43 @@
-.date{
-    background-color: rgba(1, 2, 4, 0.801);
-    border-radius: 12px;
-    border: 1px solid rgb(204, 192, 192);
-    text-align: center;
-    width: 5em;
-    color: rgb(241, 232, 219);
+.date {
+  background-color: rgba(1, 2, 4, 0.801);
+  border-radius: 12px;
+  border: 1px solid rgb(204, 192, 192);
+  text-align: center;
+  width: 5em;
+  color: rgb(241, 232, 219);
 }
 
-.date_month{
+.date_month {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(240, 155, 130);
+}
+
+.date_day {
+  font-size: 2rem;
+  font-weight: 800;
+  color: rgb(137, 174, 230);
+}
+
+.date_year {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(174, 236, 156);
+}
+
+@media screen and (max-width: 768px) {
+  .date {
+    width: 3em;
+  }
+  .date_month {
+    font-size: 1rem;
+  }
+
+  .date_day {
     font-size: 1.5rem;
-    font-weight: 600;
-    color: rgb(240, 155, 130);
-}
+  }
 
-.date_day{
-    font-size: 2rem;
-    font-weight: 800;
-    color: rgb(137, 174, 230);
-}
-
-.date_year{
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: rgb(174, 236, 156);
+  .date_year {
+    font-size: 1rem;
+  }
 }
